@@ -20,7 +20,7 @@
 - 📫 Business Inquiries: **donghae.d.yi@gmail.com**
 
 <p align="left">
-<a href="https://linkedin.com/in/donghaeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/donghaeyi" height="30" width="40" /></a> <a href="https://boulder.joinhandshake.com/profiles/4816476" target="blank"><img align="center" src="handshake-logo.png" alt="https://boulder.joinhandshake.com/profiles/4816476" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/donghaeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/donghaeyi" height="30" width="40" /></a> <a href="https://boulder.joinhandshake.com/profiles/donghaeyi" target="blank"><img align="center" src="handshake-logo.png" alt="https://boulder.joinhandshake.com/profiles/donghaeyi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@donghaeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@donghaeyi" height="30" width="40" /></a>
 </p>
 
